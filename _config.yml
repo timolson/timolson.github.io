@@ -1,12 +1,31 @@
 # Site settings
 title: Pose and Proetry
+tagline: 'love and rants'
 email: tim@tolson.net
 description: > # this means to ignore newlines until "baseurl:"
-  Poetry, programming, science, spirituality, and outright rants
+  Poetry, programming, science, spirituality, and outright rants.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://tolson.net" # the base hostname & protocol for your site
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+permalink: pretty
+
+author:
+  name: 'Tim Olson'
+  url: 'http://tolson.net'
+
+github:
+  repo: https://github.com/timolson
+
+linkedin: https://linkedin.com/in/olsontim
 twitter_username: 
 github_username: timolson
 
-# Build settings
-markdown: kramdown
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Tim Olson"

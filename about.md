@@ -1,11 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Tim Olson
+<img src='/i/portrait.png' style="float:left;margin-right:1.5rem;margin-top:.5rem;"/>
+Born with a silicon spoon in my mouth, I'm blessed to have learned programming as a child, circa 1980, in the golden era of the home computer. I was a sweet, sheltered Midwestern boy until 14 years in NYC gave me bruises, balls, and ambition, and now I live in the geek Mecca of San Francisco. I enjoy playing sports (especially soccer), board games (Go, Backgammon), and nature (I camp like it's 1499). I also meditate and believe in a personal God.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+My only social media profile is on [LinkedIn](https://linkedin.com/in/olsontim).
