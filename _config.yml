@@ -16,12 +16,8 @@ author:
   name: 'Tim Olson'
   url: 'http://tolson.net'
 
-github:
-  repo: https://github.com/timolson
-
+github: https://github.com/timolson
 linkedin: https://linkedin.com/in/olsontim
-twitter_username: 
-github_username: timolson
 
 defaults:
   -
