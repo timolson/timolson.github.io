@@ -1,0 +1,50 @@
+
+I hereby claim:
+
+  * I am an admin of http://tolson.net
+  * I am timolson (https://keybase.io/timolson) on keybase.
+  * I have a public key ASBmqNeSatN7XBegxrH4UkQgFJbF1QhpoQ5NBi_3Mzz4AQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013a62a94d8f09229012ed35010ea32b142d6f72383d282f74d7080302f87d5a790a",
+            "host": "keybase.io",
+            "kid": "012066a8d7926ad37b5c17a0c6b1f85244201496c5d50869a10e4d062ff7333cf8010a",
+            "uid": "6433cdcf3a67d8d872c2e78f0f4aac19",
+            "username": "timolson"
+        },
+        "service": {
+            "hostname": "tolson.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1491528184,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491528168,
+        "hash": "7aa372ca61de3b4913b3ee8346448ff2c7cdd0ee61571ae630ff38861285f4efff9b6b3fc7b937cd9d475f214139573eca9d001547a71c5a66d0be8d72e09715",
+        "seqno": 1004189
+    },
+    "prev": "fff07e3f2522066ab5d5ca1bdfa8b588332ef238613103e09ddc05845fa902ac",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZqjXkmrTe1wXoMax+FJEIBSWxdUIaaEOTQYv9zM8+AEKp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxM2E2MmE5NGQ4ZjA5MjI5MDEyZWQzNTAxMGVhMzJiMTQyZDZmNzIzODNkMjgyZjc0ZDcwODAzMDJmODdkNWE3OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjZhOGQ3OTI2YWQzN2I1YzE3YTBjNmIxZjg1MjQ0MjAxNDk2YzVkNTA4NjlhMTBlNGQwNjJmZjczMzNjZjgwMTBhIiwidWlkIjoiNjQzM2NkY2YzYTY3ZDhkODcyYzJlNzhmMGY0YWFjMTkiLCJ1c2VybmFtZSI6InRpbW9sc29uIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ0b2xzb24ubmV0IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MTUyODE4NCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkxNTI4MTY4LCJoYXNoIjoiN2FhMzcyY2E2MWRlM2I0OTEzYjNlZTgzNDY0NDhmZjJjN2NkZDBlZTYxNTcxYWU2MzBmZjM4ODYxMjg1ZjRlZmZmOWI2YjNmYzdiOTM3Y2Q5ZDQ3NWYyMTQxMzk1NzNlY2E5ZDAwMTU0N2E3MWM1YTY2ZDBiZThkNzJlMDk3MTUiLCJzZXFubyI6MTAwNDE4OX0sInByZXYiOiJmZmYwN2UzZjI1MjIwNjZhYjVkNWNhMWJkZmE4YjU4ODMzMmVmMjM4NjEzMTAzZTA5ZGRjMDU4NDVmYTkwMmFjIiwic2Vxbm8iOjEzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQPZYkrYsB1fYDFFeb49VihxHd4IPyD+dhB5gFZvsYTIp8J6j4WJ+O20n37yV8MdLif+3C4dgj+p0HTYagtN6+AGoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDmSd/pnhyiV8ziUwrB7J1AOmoOnYUz8Nh3NxtE81fBraN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/timolson
+
